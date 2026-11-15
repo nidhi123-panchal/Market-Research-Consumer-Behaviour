@@ -44,3 +44,16 @@ The project aims to help e-commerce businesses understand customer behaviour, id
 
 ## Project Status
 Completed: Initial end-to-end analysis and model evaluation.
+## Key Visual Findings
+
+### 1. Monthly Conversion Trends (November Spike)
+![Monthly Conversion](figures/monthly_conversion.png)
+
+### 2. Feature Importance (Impact of PageValues)
+![Feature Importance](figures/feature_importance.png)
+
+### 3. Visitor Type Conversion
+![Visitor Conversion](figures/visitor_conversion.png)
+
+### 4. Random Forest Confusion Matrix
+![Confusion Matrix](figures/random_forest_confusion_matrix.png)
